@@ -3,14 +3,14 @@ Book Management System build using with React.js, Node.js, and MySQL. Users can 
 
 ## Installation
 
-#Backend
+# Backend
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the backend directory: `cd backend`
 3. Install backend dependencies: `yarn`
 4. Create a MySQL database and update the database credentials in `.env` file.
 5. Start the backend server: `yarn start`
 
-#Frontend
+# Frontend
 6. Open another terminal and navigate to the frontend directory: `cd frontend`
 7. Install frontend dependencies: `yarn`
 8. Start the frontend development server: `yarn start`
